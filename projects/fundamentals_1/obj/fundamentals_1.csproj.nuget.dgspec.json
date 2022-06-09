@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\first_project\\projects.csproj": {}
+    "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\fundamentals_1\\fundamentals_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\first_project\\projects.csproj": {
+    "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\fundamentals_1\\fundamentals_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\first_project\\projects.csproj",
-        "projectName": "projects",
-        "projectPath": "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\first_project\\projects.csproj",
+        "projectUniqueName": "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\fundamentals_1\\fundamentals_1.csproj",
+        "projectName": "fundamentals_1",
+        "projectPath": "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\fundamentals_1\\fundamentals_1.csproj",
         "packagesPath": "C:\\Users\\chuck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\first_project\\obj\\",
+        "outputPath": "C:\\Users\\chuck\\Desktop\\coding_dojo\\Cee_Sharp\\projects\\fundamentals_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chuck\\AppData\\Roaming\\NuGet\\NuGet.Config"
