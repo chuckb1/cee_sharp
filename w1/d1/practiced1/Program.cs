@@ -21,19 +21,18 @@
 //     //Prints the next random value between 2 and 8
 //     Console.WriteLine(rand.Next(2,8));
 // }
-Dictionary<string,string> profile = new Dictionary<string,string>();
-//Almost all the methods that exists with Lists are the same with Dictionaries
-profile.Add("Name", "Speros");
-profile.Add("Language", "PHP");
-profile.Add("Location", "Greece");
-Console.WriteLine("Instructor Profile");
-Console.WriteLine("Name - " + profile["Name"]);
-Console.WriteLine("From - " + profile["Location"]);
-Console.WriteLine("Favorite Language - " + profile["Language"]);
+// 
+
+// int IntegerValue = 65;
+// Console.WriteLine(IntegerValue);
+// double DoubleValue = IntegerValue;
+// Console.WriteLine(IntegerValue);
 
 
-foreach (KeyValuePair<string,string> entry in profile)
-{
-    Console.WriteLine(entry.Key + " - " + entry.Value);
-}
+object ActuallyString = "a string";
+string ExplicitString = ActuallyString as string;
+ 
+// THIS WON'T WORK!!
+object ActuallyInt = 256;
+int ExplicitInt = ActuallyInt as int;
 

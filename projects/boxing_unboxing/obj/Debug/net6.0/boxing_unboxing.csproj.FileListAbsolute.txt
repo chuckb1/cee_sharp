@@ -1,0 +1,15 @@
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\bin\Debug\net6.0\boxing_unboxing.exe
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\bin\Debug\net6.0\boxing_unboxing.deps.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\bin\Debug\net6.0\boxing_unboxing.runtimeconfig.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\bin\Debug\net6.0\boxing_unboxing.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\bin\Debug\net6.0\boxing_unboxing.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.csproj.AssemblyReference.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.AssemblyInfoInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.AssemblyInfo.cs
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\refint\boxing_unboxing.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\boxing_unboxing.genruntimeconfig.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\boxing_unboxing\obj\Debug\net6.0\ref\boxing_unboxing.dll
