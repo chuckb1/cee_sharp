@@ -1,0 +1,15 @@
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.csproj.AssemblyReference.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.AssemblyInfoInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.AssemblyInfo.cs
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\bin\Debug\net6.0\practice_cee_sharp.exe
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\bin\Debug\net6.0\practice_cee_sharp.deps.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\bin\Debug\net6.0\practice_cee_sharp.runtimeconfig.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\bin\Debug\net6.0\practice_cee_sharp.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\bin\Debug\net6.0\practice_cee_sharp.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\refint\practice_cee_sharp.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\practice_cee_sharp.genruntimeconfig.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\practice_cee_sharp\obj\Debug\net6.0\ref\practice_cee_sharp.dll

@@ -1,0 +1,15 @@
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\bin\Debug\net6.0\human.exe
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\bin\Debug\net6.0\human.deps.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\bin\Debug\net6.0\human.runtimeconfig.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\bin\Debug\net6.0\human.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\bin\Debug\net6.0\human.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.csproj.AssemblyReference.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.AssemblyInfoInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.AssemblyInfo.cs
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\refint\human.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\human.genruntimeconfig.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\human\obj\Debug\net6.0\ref\human.dll
