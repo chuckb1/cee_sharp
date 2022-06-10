@@ -1,0 +1,15 @@
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\bin\Debug\net6.0\hungry_ninja.exe
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\bin\Debug\net6.0\hungry_ninja.deps.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\bin\Debug\net6.0\hungry_ninja.runtimeconfig.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\bin\Debug\net6.0\hungry_ninja.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\bin\Debug\net6.0\hungry_ninja.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.csproj.AssemblyReference.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.AssemblyInfoInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.AssemblyInfo.cs
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\refint\hungry_ninja.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\hungry_ninja.genruntimeconfig.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\hungry_ninja\obj\Debug\net6.0\ref\hungry_ninja.dll
