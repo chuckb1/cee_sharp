@@ -1,0 +1,15 @@
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\bin\Debug\net6.0\puzzles.exe
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\bin\Debug\net6.0\puzzles.deps.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\bin\Debug\net6.0\puzzles.runtimeconfig.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\bin\Debug\net6.0\puzzles.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\bin\Debug\net6.0\puzzles.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.csproj.AssemblyReference.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.AssemblyInfo.cs
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\refint\puzzles.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\puzzles.genruntimeconfig.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\puzzles\obj\Debug\net6.0\ref\puzzles.dll

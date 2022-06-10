@@ -29,10 +29,16 @@
 // Console.WriteLine(IntegerValue);
 
 
-object ActuallyString = "a string";
-string ExplicitString = ActuallyString as string;
+// object ActuallyString = "a string";
+// string ExplicitString = ActuallyString as string;
  
-// THIS WON'T WORK!!
-object ActuallyInt = 256;
-int ExplicitInt = ActuallyInt as int;
+// // THIS WON'T WORK!!
+// object ActuallyInt = 256;
+// int ExplicitInt = ActuallyInt as int;
 
+Random rand = new Random();
+for(int val = 0; val < 10; val++)
+{
+    //Prints the next random value between 2 and 8
+    Console.WriteLine(rand.Next(2,8));
+}
