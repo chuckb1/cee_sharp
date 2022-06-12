@@ -1,0 +1,15 @@
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\bin\Debug\net6.0\wizard_ninja_samurai.exe
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\bin\Debug\net6.0\wizard_ninja_samurai.deps.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\bin\Debug\net6.0\wizard_ninja_samurai.runtimeconfig.json
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\bin\Debug\net6.0\wizard_ninja_samurai.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\bin\Debug\net6.0\wizard_ninja_samurai.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.csproj.AssemblyReference.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.AssemblyInfoInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.AssemblyInfo.cs
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\refint\wizard_ninja_samurai.dll
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.pdb
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\wizard_ninja_samurai.genruntimeconfig.cache
+C:\Users\chuck\Desktop\coding_dojo\Cee_Sharp\projects\wizard_ninja_samurai\obj\Debug\net6.0\ref\wizard_ninja_samurai.dll
