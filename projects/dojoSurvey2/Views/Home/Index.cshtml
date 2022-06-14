@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Ninja
+<div class = "text-success bg-dark container d-flex justify-content-center">
+    <form class = "" action = "/process" method = "POST">
+        <h1 class = "text-info">Dojo Survey</h1>
+        <div>
+            <label  for = "NinjaName">Name:</label>
+            <input class = "col-form-label form-control" asp-for = "NinjaName">
+            <span asp-validation-for = "NinjaName" class = "text-danger"></span>
+        </div>
+        <div>
+            <label class = "col-form-label"for="Location">Dojo Location</label>
+            <select class = "form-control" asp-for = "Location">
+                <option selected disabled>Select Location</option>
+                <option>Los Angeles</option>
+                <option>Erie</option>
+                <option>Chicago</option>
+                <option>Pittsburgh</option>
+                <option>Harrisburg</option>
+                <option>Tallahassee</option>
+                <option>Green Bay</option>
+                <option>Atlanta</option>
+                <option>Middle of Nowhere</option>
+            </select>
+            <span asp-validation-for = "Location" class = "text-danger"></span>
+        </div>
+        <div>
+            <label class = "col-form-label" for="FavLanguage">Favorite Language:</label>
+            <select class = "form-control" asp-for = "FavLanguage">
+                <option selected disabled>Select Language</option>
+                <option>Javascript</option>
+                <option>HTML</option>
+                <option>Python</option>
+                <option>Java</option>
+            </select>
+            <span asp-validation-for = "FavLanguage" class = "text-danger"></span>
+        </div>
+        <div>
+            <div>
+                <label class = "col-form-label" for = "Comment">Comment:</label>
+            </div>
+            <div>
+                <textarea class = "form-control" rows = "8" cols = "80" type="text" id = "Comment" name = "Comment"></textarea>
+            </div>
+            <div class = text-center>
+                <button class = "btn btn-primary btn-outline-info btn-lg" type = "Submit" name = "Process" id = "Process">Submit</button>
+            </div>
+        </div>
+
+    </form>
+</div>

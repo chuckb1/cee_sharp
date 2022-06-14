@@ -1,0 +1,30 @@
+@model Ninja
+<div class = "text-success bg-dark container d-flex justify-content-center">
+    <form>
+        <h2 class = "text-info block">Submitted Info</h2>
+        <div>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td>
+                    @Model.NinjaName</td>
+                </tr>
+                <tr>   
+                    <td>Dojo Location:</td>
+                    <td>@Model.Location</td>
+                </tr>
+                <tr>   
+                    <td>Favorite Language:</td>
+                    <td>@Model.FavLanguage</td>
+                </tr>
+                <tr>   
+                    <td>Comment:</td>
+                    <td>@Model.Comment</td>
+                </tr>
+            </table>
+        </div>
+        <div class = "text-center">
+            <a class = "btn btn-primary btn-outline-info btn-lg" href = "/" type = "submit">Go Back</a>
+        </div>
+    </form>
+</div>
