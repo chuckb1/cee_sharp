@@ -21,6 +21,7 @@ public class HelloController : Controller   //remember inheritance??
     {
         ViewBag.Name = name;
         ViewBag.MyArray = new int[5] {1,2,3,4,5};
+        ViewBag.MyArray2 = new string[5] {"here", "are", "my", "five", "strings"};
         return View("Third");
     }
 }
