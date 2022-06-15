@@ -36,9 +36,40 @@
 // object ActuallyInt = 256;
 // int ExplicitInt = ActuallyInt as int;
 
-Random rand = new Random();
-for(int val = 0; val < 10; val++)
+// Random rand = new Random();
+// for(int val = 0; val < 10; val++)
+// {
+//     //Prints the next random value between 2 and 8
+//     Console.WriteLine(rand.Next(2,8));
+// }
+
+// C# program to generate random alphanumeric strings
+using System;
+  
+class GFG{
+  
+public static void Main(string[] args)
 {
-    //Prints the next random value between 2 and 8
-    Console.WriteLine(rand.Next(2,8));
+    Random res = new Random();
+  
+    // String that contain both alphabets and numbers
+    String str = "abcdefghijklmnopqrstuvwxyz0123456789";
+    int size = 8;
+  
+    // Initializing the empty string
+    String randomstring = "";
+  
+    for (int i = 0; i < size; i++)
+    {
+  
+        // Selecting a index randomly
+        int x = res.Next(str.Length);
+  
+        // Appending the character at the 
+        // index to the random alphanumeric string.
+        randomstring = randomstring + str[x];
+    }
+  
+    Console.WriteLine("Random alphanumeric String:" + randomstring);
+}
 }

@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>This is the session count: @ViewBag.count</h1>
+    <h1>@Context.Session.GetString("RandGenNum")</h1>
+</div>
+<div class="text-center">
+    <a href = "/RandGenNum">Generate Passcode</a>
+</div>
