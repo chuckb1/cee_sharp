@@ -1,0 +1,19 @@
+@model Dish
+@using crudelicious.Models
+
+<div class="text-success bg-dark container  fs-5">
+    <h1 class ="text-center">@Model.DishName</h1>
+    <h2 class= "text-center text-warning">By @Model.ChefsName</h2>
+    <div class = "d-flex justify-content-around row text-info">
+        <div class = "col align-self-start m-2">
+            <p>@Model.Description</p>                
+            <h3>Calories: @Model.Calories</h3>
+            <h3>Tastiness: @Model.Tastiness</h3>
+        </div>
+    </div>
+</div>
+<div class = "d-flex justify-content-between">
+    <a href="/" class ="btn btn-primary btn-outline-info btn-lg fs-3">See All Dishes</a>
+    <a href="/edit/@Model.DishId" class ="btn btn-success btn-outline-info btn-lg fs-3">Edit</a>
+    <a href="/delete/@Model.DishId" class ="btn btn-danger btn-outline-info btn-lg fs-3">Delete</a>
+</div>
