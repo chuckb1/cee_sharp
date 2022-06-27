@@ -1,0 +1,28 @@
+@model Chef
+@using ChefsAndDishesCeeSharp.Models
+<div class="text-center container">
+    <h1>Add a new Chef!</h1>
+</div>
+    <a href="/" class ="btn btn-primary btn-outline-info btn-lg fs-3">Home</a>
+
+<form action = "/add/chef" method ="post" class = "text-success bg-dark  d-flex justify-content-around fs-5">
+        <div>
+            <div>
+                <label for="ChefFirstName">First Name</label>
+                <input asp-for="ChefFirstName" class = "col-form-label form-control">
+                <span asp-validation-for= "ChefFirstName" class ="text-danger"></span>
+            </div>
+            <div>
+                <label for="ChefLastName">Last Name</label>
+                <input asp-for="ChefLastName" class = "col-form-label form-control">
+                <span asp-validation-for= "ChefLastName" class ="text-danger"></span>
+            </div>
+            <div>
+                <label for="ChefDOB">Date of Birth</label>
+                <input asp-for="ChefDOB" class = "col-form-label form-control">
+                <span asp-validation-for= "ChefDOB" class ="text-danger"></span>
+            </div>
+            <input type="submit" value = "Add Chef" class ="btn btn-primary btn-outline-info btn-lg fs-3"></input>
+        </div>
+        
+</form>

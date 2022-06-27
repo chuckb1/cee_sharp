@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Chef
+
+<div class="text-success bg-dark container fs-5">
+    <a href="/addAchef" class ="btn btn-primary btn-outline-info btn-lg">Add Chef</a>    
+    <div class="text-center">
+        <h1> Chefs | <a href="/seeDishes" class ="btn btn-primary btn-outline-info btn-lg">Dishes</a></h1>
+        <h2>Check out the Chefs!</h2>
+        <div>
+            <table class="text-info table">
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th># of Dishes</th>
+
+                </tr>
+                @foreach(Chef i in ViewBag.AllChefs)
+                {
+                    var today = DateTime.Now;
+                    var age = today.Year - i.ChefDOB.Year;
+                    if(i.ChefDOB.Date > today.AddYears(-age)) age--;
+                    <tr class ="text-success">
+                        <td>@i.ChefFirstName @i.ChefLastName</td>
+                        <td>@age</td>
+                        <td>Number of Dishes<td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+    
+
+
+</div>
