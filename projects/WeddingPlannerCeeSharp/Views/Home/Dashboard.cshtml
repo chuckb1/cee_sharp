@@ -1,0 +1,40 @@
+@model List<Wedding>
+@using WeddingPlannerCeeSharp.Models
+
+<div class="text-success bg-dark container fs-5">
+    <a href="/LogoutUser" class ="btn btn-primary btn-outline-info btn-lg">Logout</a>    
+    <div class="text-center">
+        <h1>Welcome to the Wedding Planner</h1>
+        <h2>@ViewBag.LoggedIn.UserName!</h2>
+        <div>
+            <table class="text-info table">
+                <tr>
+                    <th>Wedding</th>
+                    <th>Date</th>
+                    <th>Guests</th>
+                    <th>Action</th>
+                </tr>
+                @foreach (Wedding a in Model)
+                {
+                    <tr>
+                        <td> <a href = "/wedding/@a.WeddingId"> @a.Wedder1 and @a.Wedder2</a></td>
+                        <td>@a.WeddingDate</td>
+                        <td>@a.UsersWhoRSVPed.Count</td>
+                        @if(ViewBag.LoggedIn.UserId == a.UserId){
+                            <td><a href="/delete/wedding/@a.WeddingId" >Delete</a></td>
+                        } else {
+                            if(a.UsersWhoRSVPed.Any(p => p.UserId == ViewBag.LoggedIn.UserId)) {
+                            <td><a href="/delete/RSVP/@a.WeddingId">un-RSVP</a></td>
+                            }
+                            else{ <td><a href="/wedding/RSVP/@a.WeddingId" >RSVP</a></td>
+                            }
+                        }
+                    </tr>
+                }
+                
+            </table>
+        </div>
+        <a href="/addAWedding" class ="btn btn-primary btn-outline-info btn-lg">New Wedding</a>
+    </div>
+</div>
+ @* if the wedding in the table was made by the user they can see the delete, else they can RSVP if they are already RSVPed they can Un-RSVP *@
